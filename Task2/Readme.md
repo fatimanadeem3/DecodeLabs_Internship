@@ -103,15 +103,7 @@ Higher similarity scores result in better recommendations.
 
 ---
 
-# 📂 Project Structure
-
-```bash
-AI-Recommendation-System/
-│
-├── main.py
-├── README.md
-└── requirements.txt
-```
+# 📂 Project 
 
 ---
 
